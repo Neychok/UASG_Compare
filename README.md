@@ -11,9 +11,11 @@
 # Пример: 
 
 Input:
+
 python compare.py momcheta.csv 4.5 4.8 5.2
 
 Output:
+
 Брой на явили се на всички изпити: 91
 
 Броя на неявили се: 4
